@@ -1,0 +1,20 @@
+{
+    "parameters": {
+        "appName": {
+            "type": "string",
+            "defaultValue": "Contact Database application"
+        },
+        "environment": {
+            "type": "string",
+            "defaultValue": "dev"
+        },
+        "location": {
+            "type": "string",
+            "defaultValue": "eastus"
+        },
+        "resourceGroup": {
+            "type": "string",
+            "defaultValue": "GitHub-Copilot-Challenges"
+        }
+    }
+}
